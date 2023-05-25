@@ -1266,6 +1266,7 @@ java_library(
         "//third_party:flogger",
         "//third_party:guava",
         "//third_party:jsr305",
+        "@maven//:com_google_auto_value_auto_value_annotations",
     ],
 )
 
